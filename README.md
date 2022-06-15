@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @HerbyBob
+- 👀 I’m interested in Cryptocurrency
+- 🌱 I’m currently learning Cryptography
+- 💞️ I’m looking to collaborate on Stewiecoin cryptocurrency
+- 📫 How to reach me @stewiecoin on twitter
